@@ -17,7 +17,7 @@ status-website:
   logoUrl: https://www.voorhoede.nl/images/logo-with-text.svg
   name: uptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This website shows the uptime statistics of all websites that are maintained in our support portal [Support portal](https://support.voorhoede.nl)
+  introMessage: This website shows the uptime statistics of all websites that are maintained in our [support portal](https://support.voorhoede.nl)
   navbar:
     - title: uptime
       href: /
