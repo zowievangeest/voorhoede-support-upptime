@@ -2,17 +2,37 @@
   {
     "name": "Voorhoede",
     "url": "https://www.voorhoede.nl/nl/",
+    "icon": "https://favicons.githubusercontent.com/www.voorhoede.nl",
     "slug": "voorhoede",
     "status": "up",
     "uptime": "100.00%",
-    "time": 392
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 408,
+    "timeDay": 579,
+    "timeWeek": 391,
+    "timeMonth": 408,
+    "timeYear": 408,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Voorhoede Support",
     "url": "https://support.voorhoede.nl",
+    "icon": "https://favicons.githubusercontent.com/support.voorhoede.nl",
     "slug": "voorhoede-support",
     "status": "up",
     "uptime": "100.00%",
-    "time": 114
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 129,
+    "timeDay": 281,
+    "timeWeek": 138,
+    "timeMonth": 129,
+    "timeYear": 129,
+    "dailyMinutesDown": {}
   }
 ]
