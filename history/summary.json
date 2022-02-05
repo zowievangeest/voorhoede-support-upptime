@@ -26,9 +26,9 @@
     "url": "https://support.voorhoede.nl",
     "icon": "https://favicons.githubusercontent.com/support.voorhoede.nl",
     "slug": "voorhoede-support",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -38,6 +38,7 @@
     "timeMonth": 229,
     "timeYear": 311,
     "dailyMinutesDown": {
+      "2022-02-05": 0,
       "2021-12-20": 18,
       "2021-08-20": 32
     }
