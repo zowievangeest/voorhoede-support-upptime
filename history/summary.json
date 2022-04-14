@@ -4,7 +4,7 @@
     "url": "https://www.voorhoede.nl/nl/",
     "icon": "https://favicons.githubusercontent.com/www.voorhoede.nl",
     "slug": "voorhoede",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.73%",
@@ -16,6 +16,7 @@
     "timeMonth": 122,
     "timeYear": 218,
     "dailyMinutesDown": {
+      "2022-04-14": 0,
       "2022-04-10": 27,
       "2022-03-29": 16,
       "2022-01-09": 21,
