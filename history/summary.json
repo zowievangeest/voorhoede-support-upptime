@@ -4,7 +4,7 @@
     "url": "https://www.voorhoede.nl/nl/",
     "icon": "https://icons.duckduckgo.com/ip3/www.voorhoede.nl.ico",
     "slug": "voorhoede",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 194,
     "timeYear": 290,
     "dailyMinutesDown": {
+      "2023-02-04": 0,
       "2022-12-15": 22,
       "2022-12-08": 16,
       "2022-12-06": 18,
