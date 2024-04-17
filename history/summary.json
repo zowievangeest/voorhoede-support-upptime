@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 196,
-    "timeDay": 62,
-    "timeWeek": 126,
+    "timeDay": 86,
+    "timeWeek": 125,
     "timeMonth": 121,
-    "timeYear": 182,
-    "dailyMinutesDown": {
-      "2023-04-18": 45
-    }
+    "timeYear": 181,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Voorhoede Support",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 157,
-    "timeDay": 137,
-    "timeWeek": 191,
-    "timeMonth": 147,
-    "timeYear": 151,
+    "time": 158,
+    "timeDay": 496,
+    "timeWeek": 255,
+    "timeMonth": 160,
+    "timeYear": 153,
     "dailyMinutesDown": {}
   }
 ]
