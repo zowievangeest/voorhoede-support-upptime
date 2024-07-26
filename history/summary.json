@@ -31,19 +31,19 @@
     "url": "https://support.voorhoede.nl",
     "icon": "https://icons.duckduckgo.com/ip3/support.voorhoede.nl.ico",
     "slug": "voorhoede-support",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 153,
-    "timeDay": 243,
-    "timeWeek": 298,
-    "timeMonth": 174,
+    "timeDay": 207,
+    "timeWeek": 280,
+    "timeMonth": 173,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2024-07-26": 0
+      "2024-07-26": 11
     }
   }
 ]
